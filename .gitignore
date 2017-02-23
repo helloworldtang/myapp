@@ -9,3 +9,9 @@
 # misc
 .DS_Store
 npm-debug.log*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
